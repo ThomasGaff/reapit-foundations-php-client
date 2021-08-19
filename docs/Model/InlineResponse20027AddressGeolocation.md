@@ -1,0 +1,10 @@
+# # InlineResponse20027AddressGeolocation
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**latitude** | **double** | The latitude coordinate of the coordinate pair | [optional]
+**longitude** | **double** | The longitude coordinate of the coordinate pair | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
