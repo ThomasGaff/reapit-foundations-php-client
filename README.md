@@ -13,23 +13,9 @@ Should also work with PHP 8.0 but has not been tested.
 
 ### Composer
 
-To install the bindings via [Composer](https://getcomposer.org/), add the following to `composer.json`:
+To install the bindings via [Composer](https://getcomposer.org/), run the following
 
-```json
-{
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/GIT_USER_ID/GIT_REPO_ID.git"
-    }
-  ],
-  "require": {
-    "GIT_USER_ID/GIT_REPO_ID": "*@dev"
-  }
-}
-```
-
-Then run `composer install`
+`composer require northernestateagencies/reapit-foundations-php-client`:
 
 ### Manual Installation
 
