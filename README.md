@@ -15,7 +15,7 @@ Should also work with PHP 8.0 but has not been tested.
 
 To install the bindings via [Composer](https://getcomposer.org/), run the following
 
-`composer require northernestateagencies/reapit-foundations-php-client`:
+`composer require northernestateagencies/reapit-foundations-php-client`
 
 ### Manual Installation
 
